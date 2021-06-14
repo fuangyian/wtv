@@ -1,16 +1,18 @@
 #EXTM3U
+#EXTINF:-1 ,安徽卫视
+http://zbbf2.ahtv.cn/live/749.m3u8
+#EXTINF:-1 ,安徽经济生活
+http://zbbf2.ahtv.cn/live/750.m3u8
+#EXTINF:-1 ,安徽综艺
+http://zbbf2.ahtv.cn/live/758.m3u8
+#EXTINF:-1 ,安徽科教
+http://zbbf2.ahtv.cn/live/754.m3u8
+#EXTINF:-1 ,安徽公共
+http://zbbf2.ahtv.cn/live/752.m3u8
+#EXTINF:-1 ,安徽影视
+http://zbbf2.ahtv.cn/live/756.m3u8
 #EXTINF:-1 ,合肥新闻
 http://223.244.92.30:808/2774goN/live.m3u8
-#EXTINF:-1 ,安徽影视台
-http://zbbf2.ahtv.cn/live/756.m3u8
-#EXTINF:-1 ,安徽综艺台
-http://zbbf2.ahtv.cn/live/758.m3u8
-#EXTINF:-1 ,安徽公共台
-http://zbbf2.ahtv.cn/live/752.m3u8
-#EXTINF:-1 ,安徽生活台
-http://zbbf2.ahtv.cn/live/750.m3u8
-#EXTINF:-1 ,安徽科教台
-http://zbbf2.ahtv.cn/live/754.m3u8
 #EXTINF:-1 ,CCTV-1
 http://111.12.102.68:6610/PLTV/77777777/224/3221225674/index.m3u8?
 #EXTINF:-1 ,CCTV-1
